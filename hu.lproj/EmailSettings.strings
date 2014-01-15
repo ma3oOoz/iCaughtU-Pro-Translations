@@ -1,5 +1,5 @@
-SMTP"EMAIL" = "E-mail";
-"EMAIL SETTINGS" = "E-mail beállításai";
-"IN ORDER TO USE CUSTOM EMAIL SETTINGS YOU NEED A SMTP MAIL PROVIDER LIKE GMAIL" = "Az egyéni e-mailbeállítások használatához rendelkezned kell egy SMTP-képes e-mailszolgáltatóval, mint például a GMail.";
-"MAIL DETAILS" = "Részletes levélinformáció";
+﻿"EMAIL SETTINGS" = "E-mail beállításai";
+"IN ORDER TO USE CUSTOM EMAIL SETTINGS YOU NEED A SMTP MAIL PROVIDER LIKE GMAIL" = "Az egyéni e-mail beállítások használatához, rendelkezned kell egy SMTP-képes e-mailszolgáltatóval, mint például a GMail.";
+"MAIL DETAILS" = "Részletes E-mail fiók beállítás";
+"SMTP EMAIL" = "E-mail";
 "USE CUSTOM MAIL SERVICE" = "Egyéni szolgáltató használata";

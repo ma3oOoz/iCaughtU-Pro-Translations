@@ -1,9 +1,9 @@
 "ALERT TEXT" = "Riasztás szövege";
 "DISABLE" = "Letiltás";
 "POWER DOWN SETTINGS" = "Kikapcsolás beállításai";
-"POWER DOWN WHEN LOCKED" = "Lockolás esetén a készülék kikapcsolása";
+"POWER DOWN WHEN LOCKED" = "Lopás esetén a készülék kikapcsolás tiltása";
 "SEND LOCATION" = "Földrajzi helyzet küldése";
 "SEND MAIL" = "E-mail küldése";
-"SEND PICTURE" = "Kep küldése";
+"SEND PICTURE" = "Kép küldése";
 "SEND SMS" = "SMS küldése";
 "SHOW ALERT" = "Riasztás megjelenítése";

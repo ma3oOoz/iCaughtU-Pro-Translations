@@ -1,7 +1,8 @@
 "AUTO TURN ON 3G" = "3G automatikus bekapcsolása";
-"AUTO TURN ON WIFI" = "Wi-Fi automatikus bekapcsolása";
+"AUTO TURN ON DATA" = "Adat küldés bekapcsolása";
+"AUTO TURN ON WIFI" = "Wi-Fi auto.. bekapcsolása";
 "GENERAL PREFERENCES" = "Általános beállítások";
 "GENERAL SETTINGS" = "Általános beállítások";
 "HIDE ICON" = "Ikon elrejtése";
-"SAVE TO LIBRARY" = "Mentés a Library mappába";
-"TURN ON 3G WHEN NO INTERNET ACCESS AVAILABLE" = "3G bekapcsolása internetkapcsolat hiánya esetén";
+"SAVE TO LIBRARY" = "Mentés fotó mappába";
+"TURN ON 3G WHEN NO INTERNET ACCESS AVAILABLE" = "3G bekapcsolása Wi-fi hiánya esetében! Fontos!!!";
