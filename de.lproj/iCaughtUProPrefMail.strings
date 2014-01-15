@@ -1,0 +1,8 @@
+"CUSTOM MAIL" = "Server";
+"EMAIL" = "E-Mail Absender";
+"HOST" = "SMTP-Server";
+"MAIL INFO" = "Server Einstellungen";
+"PASSWORD" = "Passwort";
+"SEND TEST EMAIL" = "Sende eine Test E-Mail";
+"USE SECURE CONNECTION" = "Sichere Verbindung";
+"USERNAME" = "Benutzername";

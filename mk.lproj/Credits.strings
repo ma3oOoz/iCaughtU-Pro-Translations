@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ALL MY BETA TESTERS.</key>
+	<string>Сите Мои Бета Тестери.</string>
+	<key>Adam_Rotman, FOR ALL HIS TESTING.</key>
+	<string>Adam_Rotman, за сите негови тестирања.</string>
+	<key>BouchardAnthony, FOR ALL HIS SUGGESTIONS AND TESTING FOR ICAUGHTU PRO.</key>
+	<string>BouchardAnthony, за сите негови сугестии и тестирање за iCaughtU Pro.</string>
+	<key>CREDITS</key>
+	<string>Заслуги</string>
+	<key>DHowett, FOR Theos AND Logos.</key>
+	<string>DHowett, за Теос и Логоата.</string>
+	<key>SPECIAL THANKS TO</key>
+	<string>Посебна Благодарност До</string>
+	<key>Saurik, FOR Cydia.</key>
+	<string>Saurik, за Cydia.</string>
+	<key>THANKS TO</key>
+	<string>Благодарност До</string>
+	<key>iHaz3, FOR THE ICONS REALIZED FOR ICAUGHTU PRO.</key>
+	<string>iHaz3, за иконите употребени за iCaughtU Pro.</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ALL MY BETA TESTERS.</key>
+	<string>جميع من قام بتجربة الأداة.</string>
+	<key>Adam_Rotman, FOR ALL HIS TESTING.</key>
+	<string>Adam_Rotman, لتجربة الأداة.</string>
+	<key>BouchardAnthony, FOR ALL HIS SUGGESTIONS AND TESTING FOR ICAUGHTU PRO.</key>
+	<string>BouchardAnthony, لتجربته الأداة و مقترحاته.</string>
+	<key>CREDITS</key>
+	<string>الشكر</string>
+	<key>DHowett, FOR Theos AND Logos.</key>
+	<string>DHowett, لتقدمته البيئة البرمجية "Theos".</string>
+	<key>SPECIAL THANKS TO</key>
+	<string>شكر خاص ل:</string>
+	<key>Saurik, FOR Cydia.</key>
+	<string>Saurik, لتطويره Cydia.</string>
+	<key>THANKS TO</key>
+	<string>شكراً ل:</string>
+	<key>iHaz3, FOR THE ICONS REALIZED FOR ICAUGHTU PRO.</key>
+	<string>iHaz3, للأيقونات الخاصة بهذه الأداة.</string>
+</dict>
+</plist>

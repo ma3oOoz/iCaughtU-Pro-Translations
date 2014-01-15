@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SIM LIST</key>
+	<string>SIM Листа</string>
+	<key>SMS NUMBER</key>
+	<string>SMS Број</string>
+	<key>SMS SETTINGS</key>
+	<string>SMS Прилагодувања</string>
+	<key>SMS WHEN SIM CHANGED</key>
+	<string>SMS Кога SIM Картичката ќе Биде Сменета</string>
+</dict>
+</plist>

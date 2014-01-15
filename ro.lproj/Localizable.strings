@@ -1,0 +1,129 @@
+"ACTION" = "Acțiune";
+"ACTION SELECT" = "Alege acțiune";
+"ADD CURRENT SIM" = "Adaugă SIM-ul curent";
+"ADD NEW COMMAND" = "Adaugă comandă nouă";
+"ALERT TEXT" = "Alertă Text";
+"AND SEND IT WITH LOCATION BY EMAIL" = "și trimite cu locație prin email";
+"ALLOWED ATTEMPTS" = "Încercări permise";
+"CHECK YOUR INBOX" = "Verifica Inbox-ul";
+"CHECK YOUR INTERNET CONNECTION OR MAIL DETAILS" = "Verifică conexiunea la net sau setările de mail";
+"CLOSE" = "Închide";
+"COMMAND" = "Comandă";
+"COMMAND SUCCESSFUL" = "Comandă dată cu succes";
+"COMMANDS" = "Comenzi";
+"CRASH REPORT COULD NOT BE READED" = "Crash Report-ul nu a putut fi citit";
+"CREDITS" = "Mulțumiri";
+"DELETE PERSONAL DATA" = "Șterge datele personale";
+"DELETE KEYCHAIN" = "Șterge Keychain-ul";
+"DELETE ALL PASSWORDS" = "Șterge toate parolele";
+"DONE" = "Gata";
+"EMAIL" = "E-Mail";
+"ENABLE" = "Activează";
+"ERROR" = "Eroare";
+"EVERY 1 HOUR" = "În fiecare ora";
+"EVERY 5 MINUTES" = "La fiecare 5 minute";
+"EVERY 10 MINUTES" = "La fiecare 10 minute";
+"EVERY 30 MINUTES" = "La fiecare 30 minute";
+"FORWARD MESSAGES" = "Retrimite mesajele";
+"FORWARD NUMBER" = "Retrimite numarul";
+"FORWARD RECEIVED MESSAGES" = "Retrimite mesajele primite";
+"IF YOU ARE USING GMAIL YOUR USERNAME IS EQUAL TO YOUR EMAIL (MUST HAVE @GMAIL.COM)" = "Dacă folosești GMail, userul tau este defapt email-ul (ce se termina în @gmail.com)";
+"LICENSE" = "Licența";
+"LICENSE DOWNLOADED" = "Licență descărcată";
+"LOCK DEVICE" = "Blochează Device";
+"MAIL COULD NOT BE SENT" = "Mail-ul nu a putut fi trimis";
+"MAIL SENT" = "Mail trimis";
+"MESSAGE TEXT" = "Mesaj text";
+"MORE" = "Mai mult";
+"NOT VALIDATED" = "Nevalidat";
+"OBTAIN INFORMATION" = "Obține informații";
+"OK" = "OK";
+"ON DEVICE" = "în device";
+"OPEN" = "Deschide";
+"PLAY ALARM" = "Redă Alarma";
+"PLEASE ENTER THE PASSCODE TO EDIT SETTINGS" = "Indrodu parola pentru a modifica setările";
+"PLEASE WRITE HERE ALL THE BUGS YOU EXPERIENCED (AND DON'T DELETE THE ATTACHED FILES)" = "Scrie aici toate problemele întampinate, fara a modifica fisierele atașate email-ului.";
+"POWER DOWN DEVICE" = "Stinge Device-ul";
+"PRESS TO VALIDATE" = "Apasă pentru validare";
+"PURCHASE ICAUGHTU PRO ON CYDIA" = "Cumpără iCaughtU Pro în Cydia";
+"REBOOT DEVICE" = "Restartează Device";
+"REMOTE COMMANDS WORK BOTH WITH SMS AND IMESSAGE" = "Comenzile la distanță merg cu SMS-uri și iMessage-uri";
+"REPLY WHEN COMMAND EXECUTED" = "Răspunde când comanda a fost executată";
+"REPORT BUG TO DEVELOPER" = "Raportează o problemă";
+"REPORT LOCATION" = "Raportează locația";
+"RESEND MESSAGE TO STOP ALARM" = "Retrimite mesaj pentru a opri alarma";
+"SAFARI, SMS, MUSIC, CALL, MAIL, NOTES, ETC." = "Safari, SMS, Music, Call, Mail, Notes, etc";
+"SEND LOCATION BY EMAIL" = "Trimite locaia prin email";
+"SEND LOCATION BY SMS" = "Trimite locația prin SMS";
+"SEND PICTURE & LOCATION" = "Trimite poza & locație";
+"SETTINGS" = "Setări";
+"SHOW TEXT ALERT" = "Afișează alertă text";
+"SIM LIST" = "Lista SIM-urilor";
+"SIM NAME:" = "Nume SIM:";
+"SMS NUMBER" = "Numar SMS";
+"TAKE PICTURE FRONT CAMERA" = "Fă poză cu camera din față";
+"TAKE PICTURE REAR CAMERA" = "Fă poză cu camera din spate";
+"TEXT SHOULD BE PLACED AFTER THE COMMAND" = "Textul trebuie plasat după comandă";
+"THANKS FOR PURCHASING ICAUGHTUPRO" = "Mulțumesc pentru achiziția iCaughtU Pro!";
+"TO CONFIGURED EMAIL" = "către email-ul configurat";
+"TO SMS SENDER" = "către cel ce a trimis SMS-ul";
+"TOGGLE MUSIC PLAYER" = "Pornește playerul media";
+"TURN ON 3G & DATA" = "Pornește 3G-ul";
+"VALIDATED" = "Validat";
+"YOU NEED TO SEND THE NUMBER TO FORWARD MESSAGES IN THE MESSAGE EG:\"COMMAND +123456789\"" = "Mesajul trebe trimis astfel: \"COMMAND +123456789\"";
+"YOUR DEVICE IS NO CONFIGURED TO SEND EMAILS" = "Device-ul nu e setat să trimită mail-uri";
+"YOUR PHONE NUMBER" = "Numarul tau de telefon";
+"(BE CAREFUL IF TETHERED JAILBREAK)" = "(mare grija dacă ai thethered jailbreak)";
+"0 TO DISABLE" = "0 sau 1 pentru dezactivare";
+"CANCEL" = "Renunță";
+"INCORRECT PASSCODE" = "Parolă greșită";
+"CREATE PASSCODE" = "Creează parolă";
+"THE PASSCODES DO NOT MATCH" = "Parolele nu corespund";
+"CREATE PASSCODE TO EDIT SETTINGS" = "Creează parolă pentru a modifica setările";
+"CHANGE PASSCODE" = "Schimbă parola";
+"SOMEONE TRIED TO TURN OFF YOUR DEVICE. IF YOU ENABLED EMAIL SERVICE, CHECK YOUR INBOX." = "Cineva a încercat sa-ți stingă device-ul. Dacă ai setat un email, verifica-l!";
+"SOMEONE TRIED TO UNLOCK YOUR DEVICE. IF YOU ENABLED EMAIL SERVICE, CHECK YOUR INBOX." = "Cineva a încercat sa-ți deblocheze device-ul. Dacă ai setat un email, verifica-l!";
+"PLEASE GO TO SETTING TO CONFIGURE ICAUGHTU AND VALIDATE YOUR COPY" = "Te rog navighează în setări pentru a seta și valida iCaughtU";
+"SOMEONE INTRODUCED A SIM CARD WITH IMSI: %@ ON YOUR IPHONE WITH IMEI: %@" = "Cineva a introdus o cartela SIM cu IMSI: %@ în iPhone-ul cu IMEI: %@";
+"PLEASE ENTER LOCK PASSWORD TO LAUNCH %@" = "Introdu parola pentru a porni %@";
+"LAUNCH" = "Pornește";
+"Application Locked" = "Aplicație blocată";
+"INCORRECT PASSWORD." = "Parolă incorectă.";
+"AUTHENTICATION FAILED" = "Autentificare eșuată";
+"MESSAGE RECEIVED FROM: %@.%@" = "Mesaj primit de la: %@.%@";
+"MESSAGE FORWARDING TURNED ON" = "Retrimiterea mesajelor: ON";
+"MESSAGE FORWARDING TURNED OFF" = "Retrimiterea mesajelor: OFF";
+"COMMAND RECEIVED AND EXECUTED. THANKS FOR USING ICAUGHTU PRO" = "Comandă primită și executată. Mulțumesc ca ai folosit iCaughtU Pro";
+"LOCATION REPORT EVERY %.0F MINUTES TURNED ON" = "Raportarea locației la %.0f minute: ON";
+"LOCATION REPORT TURNED OFF" = "Raportarea locației: OFF";
+"LOCATION REPORT" = "Raportarea locației"; //should be a prefix of the string indicating on/off
+"IMESSAGE RECEIVED FROM: %@.%@" = "iMessage primit de la: %@.%@";
+"BACK" = "Înapoi";
+"SEND IP OF THE DEVICE" = "Trimite IP-ul device-ului";
+"EXACT COMMAND" = "Comanda exactă";
+"TEXT MUST BE EQUAL TO COMMAND" = "Textul trebe sa fie egal cu comanda";
+"SEND LIST OF COMMANDS" = "Trimite lista de comenzi";
+
+"Enter Passcode" = "Introdu parola";
+
+"Enter your old passcode" = "Introdu vechea parolă";
+
+"Enter your passcode" = "Introdu parola";
+
+"Enable Passcode" = "Activează parola";
+
+"Change Passcode" = "Schimbă parola";
+
+"Turn Off Passcode" = "Oprește parola";
+
+"Re-enter your passcode" = "Reintrodu parola";
+
+"Re-enter your new passcode" = "Reintrodu noua parolă";
+
+"Enter your new passcode" = "Introdu noua parolă";
+
+"Passcodes did not match. Try again." = "Parolele nu corespund. Încearcă din nou.";
+
+"1 Passcode Failed Attempt" = "O încercare eșuată";
+
+"%i Passcode Failed Attempts" = "%i încercări eșuate";

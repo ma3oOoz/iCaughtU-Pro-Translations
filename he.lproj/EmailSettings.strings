@@ -1,0 +1,5 @@
+"EMAIL" = "אי-מייל";
+"IN ORDER TO USE CUSTOM EMAIL SETTINGS YOU NEED A SMTP MAIL PROVIDER LIKE GMAIL" = "על מנת להשתמש בספק אי-מייל מותאם אישית צריך שיהיה לך שרת SMTP כמו ג'ימייל";
+"USE CUSTOM MAIL SERVICE" = "השתמש בספק אי-מייל מותאם אישית";
+"MAIL DETAILS" = "אפשרות מייל";
+"EMAIL SETTINGS" = "הגדרות אי-מייל";

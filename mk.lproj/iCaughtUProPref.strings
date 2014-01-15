@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>EMAIL</key>
+	<string>Е-Пошта</string>
+	<key>FAKE MODE</key>
+	<string>Лажен Режим</string>
+	<key>FOLLOW @ITAYBRE</key>
+	<string>Следи го @itaybre</string>
+	<key>GENERAL</key>
+	<string>Општо</string>
+	<key>MORE</key>
+	<string>Повеќе</string>
+	<key>POWER DOWN WHEN LOCKED</key>
+	<string>Исклучи Кога е Заклучен</string>
+	<key>REMOTE COMMANDS</key>
+	<string>Далечински Команди</string>
+	<key>SETTINGS</key>
+	<string>Прилагодувања</string>
+	<key>SMS</key>
+	<string>SMS</string>
+	<key>WEBSITE</key>
+	<string>Веб-страница</string>
+	<key>WRONG PASSWORD</key>
+	<string>Погрешна Лозинка</string>
+</dict>
+</plist>

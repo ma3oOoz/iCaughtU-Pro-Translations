@@ -1,0 +1,18 @@
+"FAKEMODE" = "ManeraFalsa";
+"PREFERENCES" = "Ajustos";
+"FAKEMODE ALLOWS ACCESS TO YOUR DEVICE  WHEN PASSWORD IS ENTERED WRONG ONLY TO THE APPS YOU CHOOSE." = "ManeraFalsa permet accés al telèfon quan s'introdueix malament la contrasenya però solament a les aplicacions triades.";
+"ENABLE" = "Habilitar";
+"SIM CARDS PREFERENCES" = "Ajustos de SIM";
+"ALLOWED SIM CARDS" = "Targetes SIM permeses";
+"ALL SIM CARDS" = "Totes les Targetes SIM";
+"ONLY SELECTED" = "Nomès Seleccionades";
+"SIM LIST" = "Llista de SIMs";
+"LOCKED APPS" = "Aplicacions bloquejades";
+"LOCKED APPS WILL BE ACTIVATOR, CYDIA, ICAUGHTU PRO, IFILE, IFINDER, MOBILETERMINAL, MYFILE, PKGBACKUP, POWER CENTER AND SBSETTINGS" = "Les aplicacions a bloquejar seran Activator, Cydia, iCaughtU Pro, iFile, iFinder, MobileTerminal, MyFile, PKGBackup, Power Center i SBSettings";
+"LOCKED APPLICATIONS" = "Apps bloquejades";
+"LOCK SYSTEM APPS" = "Bloquejar del Sistema";
+"LOCK CYDIA APPS" = "Bloquejar Apps de Cydia";
+"ALLOWED ATTEMPTS" = "Intents Permesos";
+"FAKE BATTERY" = "Fake Bateria";
+"HIDE CHARGING" = "Amaga cˆrrega";
+

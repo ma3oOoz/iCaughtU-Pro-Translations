@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>EMAIL</key>
+	<string>البريد</string>
+	<key>EMAIL SETTINGS</key>
+	<string>إعدادات البريد</string>
+	<key>IN ORDER TO USE CUSTOM EMAIL SETTINGS YOU NEED A SMTP MAIL PROVIDER LIKE GMAIL</key>
+	<string>حتى تستطيع استخدام خاصيّة البريد يجب أن يدعم المزود خاصيّة SMTP مثل Gmail.</string>
+	<key>MAIL DETAILS</key>
+	<string>معلومات البريد</string>
+	<key>USE CUSTOM MAIL SERVICE</key>
+	<string>استخدام خاصيّة البريد المفصّلة.</string>
+</dict>
+</plist>

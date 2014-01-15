@@ -1,0 +1,9 @@
+"ALERT TEXT" = "Nachrichtentext";
+"DISABLE" = "Herunterfahren deaktivieren";
+"POWER DOWN SETTINGS" = "Standby-Taste";
+"POWER DOWN WHEN LOCKED" = "Aktionen nach langem Drücken der Standby-Taste:";
+"SEND LOCATION" = "Position senden";
+"SEND MAIL" = "E-Mail senden";
+"SEND PICTURE" = "Bild senden";
+"SEND SMS" = "SMS senden";
+"SHOW ALERT" = "Nachricht anzeigen";

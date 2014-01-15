@@ -1,0 +1,123 @@
+"(BE CAREFUL IF TETHERED JAILBREAK)" = "(Vorsicht bei tethered Jailbreak!)";
+"0 TO DISABLE" = "Deaktivieren=0";
+"ACTION" = "Aktion";
+"ACTION SELECT" = "Aktion auswählen";
+"ADD CURRENT SIM" = "Aktuelle SIM-Karte hinzufügen";
+"ADD NEW COMMAND" = "Neuen Befehl hinzufügen";
+"ALERT TEXT" = "Nachrichtentext";
+"ALLOWED ATTEMPTS" = "Erlaubte Versuche";
+"AND SEND IT WITH LOCATION BY EMAIL" = "und mit Standort per E-Mail senden";
+"AUTHENTICATION FAILED" = "Authentifikation fehlgeschlagen!";
+"Application Locked" = "Applikation gesperrt!";
+"BACK" = "Zurück";
+"CANCEL" = "Abbrechen";
+"CHANGE PASSCODE" = "Passcode ändern";
+"CHECK YOUR INBOX" = "Prüfen Sie Ihren Posteingang!";
+"CHECK YOUR INTERNET CONNECTION OR MAIL DETAILS" = "Prüfen Sie Ihre Internetverbindung oder Ihre E-Mail Einstellungen!";
+"CLOSE" = "Schließen";
+"COMMAND" = "Befehl";
+"COMMAND RECEIVED AND EXECUTED. THANKS FOR USING ICAUGHTU PRO" = "Befehl erhalten und ausgeführt. Danke für die Nutzung von iCaughtU Pro!";
+"COMMAND SUCCESSFUL" = "Befehl erfolgreich!";
+"COMMANDS" = "Befehle";
+"CRASH REPORT COULD NOT BE READED" = "Absturzbericht konnte nicht gelesen werden!";
+"CREATE PASSCODE" = "Passcode erstellen";
+"CREATE PASSCODE TO EDIT SETTINGS" = "Passcode erstellen, um Einstellungen zu bearbeiten:";
+"CREDITS" = "Credits";
+"DELETE PERSONAL DATA" = "Persönliche Daten löschen";
+"DONE" = "Fertig";
+"EMAIL" = "E-Mail";
+"ENABLE" = "Aktivieren";
+"ERROR" = "Fehler";
+"EVERY 1 HOUR" = "Jede Stunde";
+"EVERY 10 MINUTES" = "Alle 10 Minuten";
+"EVERY 30 MINUTES" = "Alle 30 Minuten";
+"EVERY 5 MINUTES" = "Alle 5 Minuten";
+"FORWARD MESSAGES" = "Nachrichten weiterleiten";
+"FORWARD NUMBER" = "Nummer weiterleiten";
+"FORWARD RECEIVED MESSAGES" = "Erhaltene Nachrichten weiterleiten";
+"IF YOU ARE USING GMAIL YOUR USERNAME IS EQUAL TO YOUR EMAIL (MUST HAVE @GMAIL.COM)" = "Wenn Sie GMail nutzen, ist Ihr Nutzername gleich Ihrer E-Mailadresse (muss auf @gmail.com enden).";
+"IMESSAGE RECEIVED FROM: %@.%@" = "iMessage erhalten von: %@.%@";
+"INCORRECT PASSCODE" = "Falscher Passcode!";
+"INCORRECT PASSWORD." = "Falsches Passwort!";
+"LAUNCH" = "Öffnen";
+"LICENSE" = "Lizenz";
+"LICENSE DOWNLOADED" = "Lizenz heruntergeladen";
+"LOCATION REPORT" = "Positionsmeldung: ";
+"LOCATION REPORT EVERY %.0F MINUTES TURNED ON" = "Positionsmeldung alle %.0f Minuten ist eingeschaltet!";
+"LOCATION REPORT TURNED OFF" = "Positionsmeldung ist ausgeschaltet!";
+"LOCK DEVICE" = "Gerät sperren";
+"MAIL COULD NOT BE SENT" = "E-Mail konnte nicht gesendet werden!";
+"MAIL SENT" = "E-Mail gesendet!";
+"MESSAGE FORWARDING TURNED OFF" = "Nachrichten weiterleiten ist ausgeschaltet.";
+"MESSAGE FORWARDING TURNED ON" = "Nachrichten weiterleiten ist eingeschaltet.";
+"MESSAGE RECEIVED FROM: %@.%@" = "Nachricht erhalten von: %@.%@";
+"MESSAGE TEXT" = "Nachrichtentext";
+"MORE" = "Mehr";
+"NOT VALIDATED" = "Nicht bestätigt";
+"OBTAIN INFORMATION" = "Informationen abrufen";
+"OK" = "OK";
+"ON DEVICE" = "auf dem Gerät";
+"OPEN" = "Öffnen";
+"PLAY ALARM" = "Alarm abspielen";
+"PLEASE ENTER LOCK PASSWORD TO LAUNCH %@" = "Bitte Sperr-Passwort eingeben zum Starten von %@";
+"PLEASE ENTER THE PASSCODE TO EDIT SETTINGS" = "Bitte Passcode eingeben, um die Einstellungen zu bearbeiten!";
+"PLEASE GO TO SETTING TO CONFIGURE ICAUGHTU AND VALIDATE YOUR COPY" = "Bitte gehen Sie in die Einstellungen, um ICaughtU zu konfigurieren und Ihre Kopie zu vaidieren.";
+"PLEASE WRITE HERE ALL THE BUGS YOU EXPERIENCED (AND DON'T DELETE THE ATTACHED FILES)" = "Bitte notieren Sie hier alle Bugs, die Sie gefunden haben. Und löschen Sie bitte nicht die angehängten Dateien!";
+"POWER DOWN DEVICE" = "Gerät herunterfahren";
+"PRESS TO VALIDATE" = "Zum Bestätigen drücken";
+"PURCHASE ICAUGHTU PRO ON CYDIA" = "iCaughtU Pro in Cydia kaufen";
+"REBOOT DEVICE" = "Gerät neustarten";
+"REMOTE COMMANDS WORK BOTH WITH SMS AND IMESSAGE" = "Fernbefehle funktionieren sowohl per SMS als auch über iMessage!";
+"REPLY WHEN COMMAND EXECUTED" = "Antworten, wenn Befehl ausgeführt wurde";
+"REPORT BUG TO DEVELOPER" = "Bug an den Entwickler melden";
+"REPORT LOCATION" = "Position melden";
+"RESEND MESSAGE TO STOP ALARM" = "Nachricht erneut senden, um den Alarm zu stoppen";
+"SAFARI, SMS, MUSIC, CALL, MAIL, NOTES, ETC." = "Safari, SMS, Musik, Anrufe, Mail, Notizen etc.";
+"SEND LOCATION BY EMAIL" = "Position per E-Mail senden";
+"SEND LOCATION BY SMS" = "Position per SMS senden";
+"SEND PICTURE &amp; LOCATION" = "Bild und Position senden";
+"SETTINGS" = "Einstellungen";
+"SHOW TEXT ALERT" = "Alarmtext anzeigen";
+"SIM LIST" = "SIM-Karten Liste";
+"SIM NAME:" = "SIM-Karten Name:";
+"SMS NUMBER" = "SMS-Nummer";
+"SOMEONE INTRODUCED A SIM CARD WITH IMSI: %@ ON YOUR IPHONE WITH IMEI: %@" = "Jemand hat eine SIM-Karte mit der IMSI: %@ und IMEI: %@ in Ihr iPhone eingelegt!";
+"SOMEONE TRIED TO TURN OFF YOUR DEVICE. IF YOU ENABLED EMAIL SERVICE, CHECK YOUR INBOX." = "Jemand hat versucht, Ihr Gerät auszuschalten. Sollten Sie E-Mail konfiguriert haben, überprüfen Sie bitte Ihren Posteingang.";
+"SOMEONE TRIED TO UNLOCK YOUR DEVICE. IF YOU ENABLED EMAIL SERVICE, CHECK YOUR INBOX." = "Jemand hat versucht, Ihr Gerät zu entsperren. Sollten Sie E-Mail konfiguriert haben, überprüfen Sie bitte Ihren Posteingang.";
+"TAKE PICTURE FRONT CAMERA" = "Bild mit der vorderen Kamera aufnehmen";
+"TAKE PICTURE REAR CAMERA" = "Bild mit der Rückkamera aufnehmen";
+"TEXT SHOULD BE PLACED AFTER THE COMMAND" = "Text sollte nach dem Befehl plaziert werden";
+"THANKS FOR PURCHASING ICAUGHTUPRO" = "Danke für den Kauf von iCaughtU Pro!";
+"THE PASSCODES DO NOT MATCH" = "Passcodes stimmen nicht überein!";
+"TO CONFIGURED EMAIL" = "zur konfigurierten E-Mail";
+"TO SMS SENDER" = "zum SMS-Sender";
+"TOGGLE MUSIC PLAYER" = "Musikplayer an-/ausschalten";
+"TURN ON 3G &amp; DATA" = "Mobile Daten und 3G anschalten";
+"VALIDATED" = "Überprüft";
+"YOU NEED TO SEND THE NUMBER TO FORWARD MESSAGES IN THE MESSAGE EG:\"COMMAND +123456789\"" = "Sie müssen die Nummer, an die die Nachricht weitergeleitet werden soll, in die Nachricht einbinden, z.B.: \"COMMAND +123456789\"";
+"YOUR DEVICE IS NO CONFIGURED TO SEND EMAILS" = "Ihr Gerät ist jetzt zum E-Mail Senden konfiguriert!";
+"YOUR PHONE NUMBER" = "Ihre Telefonnummer";
+
+"Enter Passcode" = "Pincode eingeben";
+
+"Enter your old passcode" = "Alten Pincode eingeben";
+
+"Enter your passcode" = "Geben Sie Ihren Pincode ein";
+
+"Enable Passcode" = "Pincode aktivieren";
+
+"Change Passcode" = "Pincode ändern";
+
+"Turn Off Passcode" = "Pincode deaktivieren";
+
+"Re-enter your passcode" = "Pincode wiederholen";
+
+"Re-enter your new passcode" = "Neuen Pincode wiederholen";
+
+"Enter your new passcode" = "Geben Sie Ihren neuen Pincode ein";
+
+"Passcodes did not match. Try again." = "Pincodes nicht ident. Bitte nochmals versuchen.";
+
+"1 Passcode Failed Attempt" = "1 fehlgeschlagener Eingabeversuch";
+
+"%i Passcode Failed Attempts" = "%i fehlgeschlagene Eingabeversuche";

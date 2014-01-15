@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>%i Passcode Failed Attempts</key>
+	<string>%i Неуспешни Обиди за Лозинка</string>
+	<key>(BE CAREFUL IF TETHERED JAILBREAK)</key>
+	<string>(биди внимателен ако е tethered jailbrake)</string>
+	<key>0 TO DISABLE</key>
+	<string>0 или 1 да Оневозможиш</string>
+	<key>1 Passcode Failed Attempt</key>
+	<string>1 Неуспешен Обид на Лозинка</string>
+	<key>ACTION</key>
+	<string>Дејствие</string>
+	<key>ACTION SELECT</key>
+	<string>Одбери Дејствие</string>
+	<key>ADD CURRENT SIM</key>
+	<string>Додади Моментална SIM</string>
+	<key>ADD NEW COMMAND</key>
+	<string>Додади Нова Команда</string>
+	<key>ALERT TEXT</key>
+	<string>Предупредувачки Текст</string>
+	<key>ALLOWED ATTEMPTS</key>
+	<string>Дозволени Обиди</string>
+	<key>AND SEND IT WITH LOCATION BY EMAIL</key>
+	<string>и испрати го со Локација преку Е-Пошта</string>
+	<key>AUTHENTICATION FAILED</key>
+	<string>Неуспешна проверка на идентитет</string>
+	<key>Application Locked</key>
+	<string>Заклучени Апликации</string>
+	<key>BACK</key>
+	<string>Назад</string>
+	<key>CANCEL</key>
+	<string>Откажи</string>
+	<key>CHANGE PASSCODE</key>
+	<string>Измени Пристапен Код</string>
+	<key>CHECK YOUR INBOX</key>
+	<string>Провери го Своето Поштенско Сандаче</string>
+	<key>CHECK YOUR INTERNET CONNECTION OR MAIL DETAILS</key>
+	<string>Провери ја Својатa Интернет Врска или Деталите за Е-Поштата</string>
+	<key>CLOSE</key>
+	<string>Затвори</string>
+	<key>COMMAND</key>
+	<string>Команда</string>
+	<key>COMMAND RECEIVED AND EXECUTED. THANKS FOR USING ICAUGHTU PRO</key>
+	<string>Командата е Примена и Извршена. Ви Благодарам што Користите iCaughtU Pro</string>
+	<key>COMMAND SUCCESSFUL</key>
+	<string>Командата е Успешна</string>
+	<key>COMMANDS</key>
+	<string>Команди</string>
+	<key>CRASH REPORT COULD NOT BE READED</key>
+	<string>Извештајот за Крахот неможеше да се прочита</string>
+	<key>CREATE PASSCODE</key>
+	<string>Направи Пристапен Код</string>
+	<key>CREATE PASSCODE TO EDIT SETTINGS</key>
+	<string>Направи Пристапен Код да ги Прилагодиш Прилагодувањата</string>
+	<key>CREDITS</key>
+	<string>Заслуги</string>
+	<key>Change Passcode</key>
+	<string>Измени Пристапен Код</string>
+	<key>DELETE ALL PASSWORDS</key>
+	<string>Избриши ги сите лозинки</string>
+	<key>DELETE KEYCHAIN</key>
+	<string>Избриши ги поврзаните лозинки</string>
+	<key>DELETE PERSONAL DATA</key>
+	<string>Избриши ги личните податоци</string>
+	<key>DONE</key>
+	<string>Готово</string>
+	<key>EMAIL</key>
+	<string>E-Пошта</string>
+	<key>ENABLE</key>
+	<string>Вклучи</string>
+	<key>ERROR</key>
+	<string>Грешка</string>
+	<key>EVERY 1 HOUR</key>
+	<string>Секој 1 Час</string>
+	<key>EVERY 10 MINUTES</key>
+	<string>Секои 10 Минути</string>
+	<key>EVERY 30 MINUTES</key>
+	<string>Секои 30 Минути</string>
+	<key>EVERY 5 MINUTES</key>
+	<string>Секои 5 Минути</string>
+	<key>EXACT COMMAND</key>
+	<string>Иста Команда</string>
+	<key>Enable Passcode</key>
+	<string>Вклучи Пристапен Код</string>
+	<key>Enter Passcode</key>
+	<string>Внеси Пристапен Код</string>
+	<key>Enter your new passcode</key>
+	<string>Внеси го твојот нов пристапен код</string>
+	<key>Enter your old passcode</key>
+	<string>Внеси го твојот стар пристапен код</string>
+	<key>Enter your passcode</key>
+	<string>Внеси го твојот пристапен код</string>
+	<key>FORWARD MESSAGES</key>
+	<string>Препрати Пораки</string>
+	<key>FORWARD NUMBER</key>
+	<string>Препрати Број</string>
+	<key>FORWARD RECEIVED MESSAGES</key>
+	<string>Препрати ги примените Пораки</string>
+	<key>IF COMMAND IS SENT FROM IMESSAGE, SMS WILL BE SENT TO NUMBER SET IN SMS SETTINGS</key>
+	<string>Ако Командата е пратена од iMessage, SMS ќе биде пратен на бројот внесен во SMS Прилагодувањата</string>
+	<key>IF YOU ARE USING GMAIL YOUR USERNAME IS EQUAL TO YOUR EMAIL (MUST HAVE @GMAIL.COM)</key>
+	<string>Ако користиш GMail твоето корисничко име е исто со твојата Е-Пошта (мора да содржи @gmail.com)</string>
+	<key>IMESSAGE RECEIVED FROM: %@.%@</key>
+	<string>iMessage Примена од: %@.%@</string>
+	<key>INCORRECT PASSCODE</key>
+	<string>Неправилен Пристапен Код</string>
+	<key>INCORRECT PASSWORD.</key>
+	<string>Неправилна Лозинка.</string>
+	<key>LAUNCH</key>
+	<string>Стартувај</string>
+	<key>LICENSE</key>
+	<string>Лиценца</string>
+	<key>LICENSE DOWNLOADED</key>
+	<string>Лиценцата е Симната</string>
+	<key>LOCATION REPORT</key>
+	<string>Известување за Локација</string>
+	<key>LOCATION REPORT EVERY %.0F MINUTES TURNED ON</key>
+	<string>Известување за Локацијата на Секои %.Од Минутите на Вклучување</string>
+	<key>LOCATION REPORT TURNED OFF</key>
+	<string>Известувањето за Локацијата е Исклучено</string>
+	<key>LOCK DEVICE</key>
+	<string>Заклучи го Уредот</string>
+	<key>MAIL COULD NOT BE SENT</key>
+	<string>Е-Поштата Неможеше да Биде Испратена</string>
+	<key>MAIL SENT</key>
+	<string>Е-Поштата е Испратена</string>
+	<key>MESSAGE FORWARDING TURNED OFF</key>
+	<string>Препраќањето на Пораките е Исклучено</string>
+	<key>MESSAGE FORWARDING TURNED ON</key>
+	<string>Препраќањето на Пораките е Бклучено</string>
+	<key>MESSAGE RECEIVED FROM: %@.%@</key>
+	<string>Порака Примена од: %@.%@</string>
+	<key>MESSAGE TEXT</key>
+	<string>Текст на Пораката</string>
+	<key>MORE</key>
+	<string>Повеќе</string>
+	<key>NOT VALIDATED</key>
+	<string>Не е Потврдена</string>
+	<key>OBTAIN INFORMATION</key>
+	<string>Добиј Информации</string>
+	<key>OK</key>
+	<string>OK</string>
+	<key>ON DEVICE</key>
+	<string>На Уредот</string>
+	<key>OPEN</key>
+	<string>Отвори</string>
+	<key>PLAY ALARM</key>
+	<string>Пушти Аларм</string>
+	<key>PLEASE ENTER LOCK PASSWORD TO LAUNCH %@</key>
+	<string>Ве Молам внесете ја Лозинката за Заклучување за да вклучите %@</string>
+	<key>PLEASE ENTER THE PASSCODE TO EDIT SETTINGS</key>
+	<string>Ве Молам Внесете ја Лозинката за да Прилагодите</string>
+	<key>PLEASE GO TO SETTING TO CONFIGURE ICAUGHTU AND VALIDATE YOUR COPY</key>
+	<string>Ве Молам Одете во Прилагодувањата за да го Конфигурирате iCaughtU и Потврдите Вашата Копија</string>
+	<key>PLEASE WRITE HERE ALL THE BUGS YOU EXPERIENCED (AND DON'T DELETE THE ATTACHED FILES)</key>
+	<string>Ве молам запишете овде за сите багови што ги прометивте (и не бришете ги закачените фајлови).</string>
+	<key>POWER DOWN DEVICE</key>
+	<string>Исклучете го Уредот</string>
+	<key>PRESS TO VALIDATE</key>
+	<string>Притиснете да Потврдите</string>
+	<key>PURCHASE ICAUGHTU PRO ON CYDIA</key>
+	<string>Купете го iCaughtU Pro во Cydia</string>
+	<key>Passcodes did not match. Try again.</key>
+	<string>Пристапните Кодови не се совпаѓаат. Пробајте повторно.</string>
+	<key>REBOOT DEVICE</key>
+	<string>Рестартирајте го Уредот</string>
+	<key>REMOTE COMMANDS WORK BOTH WITH SMS AND IMESSAGE</key>
+	<string>Далечинските Команди работат со SMS и iMessage</string>
+	<key>REPLY WHEN COMMAND EXECUTED</key>
+	<string>Повтори кога командата е извршена</string>
+	<key>REPORT BUG TO DEVELOPER</key>
+	<string>Пријави Баг на Developer</string>
+	<key>REPORT LOCATION</key>
+	<string>Пријави Локација</string>
+	<key>RESEND MESSAGE TO STOP ALARM</key>
+	<string>Препрати Порака да го стопираш Алармот</string>
+	<key>Re-enter your new passcode</key>
+	<string>Внеси го повторно твојот нов пристапен код</string>
+	<key>Re-enter your passcode</key>
+	<string>Внеси го твојот пристапен код</string>
+	<key>SAFARI, SMS, MUSIC, CALL, MAIL, NOTES, ETC.</key>
+	<string>Сафари, SMS, Музика, Повик, Е-Пошта, Белешки, итн</string>
+	<key>SEND IP OF THE DEVICE</key>
+	<string>Прати IP од Уредот</string>
+	<key>SEND LIST OF COMMANDS</key>
+	<string>Прати Листа на Команди</string>
+	<key>SEND LOCATION BY EMAIL</key>
+	<string>Прати Локација преку Е-Пошта</string>
+	<key>SEND LOCATION BY SMS</key>
+	<string>Прати Локација преку SMS</string>
+	<key>SEND PICTURE &amp; LOCATION</key>
+	<string>Прати Фотографија &amp; Локација</string>
+	<key>SETTINGS</key>
+	<string>Прилагодувања</string>
+	<key>SHOW TEXT ALERT</key>
+	<string>Прикажи Предупредување со Текст</string>
+	<key>SIM LIST</key>
+	<string>SIM Листа</string>
+	<key>SIM NAME:</key>
+	<string>SIM Име:</string>
+	<key>SMS NUMBER</key>
+	<string>SMS Број</string>
+	<key>SOMEONE INTRODUCED A SIM CARD WITH IMSI: %@ ON YOUR IPHONE WITH IMEI: %@</key>
+	<string>Некој внесе SIM Картичка со IMSI: %@ во твојот iPhone со IMEI: %@</string>
+	<key>SOMEONE TRIED TO TURN OFF YOUR DEVICE. IF YOU ENABLED EMAIL SERVICE, CHECK YOUR INBOX.</key>
+	<string>Некој проба да го исклучи вашиот уред. Ако сте го вклучиле Е-Пошта сервисот, проверете во вашето сандаче.</string>
+	<key>SOMEONE TRIED TO UNLOCK YOUR DEVICE. IF YOU ENABLED EMAIL SERVICE, CHECK YOUR INBOX.</key>
+	<string>Некој проба да го отклучи вашиот уред. Ако сте го вклучиле Е-Пошта сервисот, проверете во вашето сандаче.</string>
+	<key>TAKE PICTURE FRONT CAMERA</key>
+	<string>Фотографирај со Предната Камера</string>
+	<key>TAKE PICTURE REAR CAMERA</key>
+	<string>Фотографирај со Задната Камера</string>
+	<key>TEXT MUST BE EQUAL TO COMMAND</key>
+	<string>Текстот мора да биде еднаков на Командата</string>
+	<key>TEXT SHOULD BE PLACED AFTER THE COMMAND</key>
+	<string>Текстот треба да биде ставен после Командата</string>
+	<key>THANKS FOR PURCHASING ICAUGHTUPRO</key>
+	<string>Ви благодарам што го купивте iCaughtU Pro</string>
+	<key>THE PASSCODES DO NOT MATCH</key>
+	<string>Пристапните Кодови не се совпаѓаат</string>
+	<key>TO CONFIGURED EMAIL</key>
+	<string>на прилагодената Е-Пошта</string>
+	<key>TO SMS SENDER</key>
+	<string>на SMS праќачот</string>
+	<key>TOGGLE MUSIC PLAYER</key>
+	<string>Пушти Музички Плеер</string>
+	<key>TURN ON 3G &amp; DATA</key>
+	<string>Вклучи 3G &amp; Data</string>
+	<key>Turn Off Passcode</key>
+	<string>Исклучи го Пристапниот Код</string>
+	<key>VALIDATED</key>
+	<string>Потврдено</string>
+	<key>YOU NEED TO SEND THE NUMBER TO FORWARD MESSAGES IN THE MESSAGE EG:"COMMAND +123456789"</key>
+	<string>Мораш да го пратиш бројот на препратен SMS во порака EG: "КОМАНДА +123456789"</string>
+	<key>YOUR DEVICE IS NO CONFIGURED TO SEND EMAILS</key>
+	<string>Твојот уред не е конфигуриран да праќа Е-Пошта</string>
+	<key>YOUR PHONE NUMBER</key>
+	<string>Твојот Телефонски Број</string>
+</dict>
+</plist>

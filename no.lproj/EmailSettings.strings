@@ -1,0 +1,5 @@
+"EMAIL" = "E-Post";
+"EMAIL SETTINGS" = "E-Post Instillinger";
+"IN ORDER TO USE CUSTOM EMAIL SETTINGS YOU NEED A SMTP MAIL PROVIDER LIKE GMAIL" = "For å kunne bruke egendefinerte E-Post instillinger må du ha en SMTP leverandør som GMail";
+"MAIL DETAILS" = "Mail Detaljer";
+"USE CUSTOM MAIL SERVICE" = "Bruk egendefinert Mail tjeneste";

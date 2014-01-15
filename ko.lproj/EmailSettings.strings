@@ -1,0 +1,5 @@
+"EMAIL" = "E-Mail";
+"IN ORDER TO USE CUSTOM EMAIL SETTINGS YOU NEED A SMTP MAIL PROVIDER LIKE GMAIL" = "기타 메일 주소를 사용하기 위해선 Gmail 같이 SMTP를 지원하는 메일 주소가 필요합니다.";
+"USE CUSTOM MAIL SERVICE" = "기타 메일 서비스 사용";
+"MAIL DETAILS" = "메일 상세 정보";
+"EMAIL SETTINGS" = "E-Mail 설정";

@@ -1,0 +1,5 @@
+"EMAIL" = "E-mail";
+"IN ORDER TO USE CUSTOM EMAIL SETTINGS YOU NEED A SMTP MAIL PROVIDER LIKE GMAIL" = "V prípade použitia vlastného nastavenia e-mailu, je nutné použit protokol SMTP.";
+"USE CUSTOM MAIL SERVICE" = "Použiť vlastný e-mail";
+"MAIL DETAILS" = "Vlastné nastavenie";
+"EMAIL SETTINGS" = "Nastavenie e-mailu";

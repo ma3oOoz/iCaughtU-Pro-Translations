@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>EMAIL</key>
+	<string>Е-Пошта</string>
+	<key>EMAIL SETTINGS</key>
+	<string>Е-Пошта Прилагодувањата</string>
+	<key>IN ORDER TO USE CUSTOM EMAIL SETTINGS YOU NEED A SMTP MAIL PROVIDER LIKE GMAIL</key>
+	<string>Со цел да се користат посебни прилагодувањата на Е-Поштата ви треба Е-Пошта со SMTP Провајдер како што е Gmail</string>
+	<key>MAIL DETAILS</key>
+	<string>Детали за Е-Пошта</string>
+	<key>USE CUSTOM MAIL SERVICE</key>
+	<string>Користи прилагодена Е-Пошта</string>
+</dict>
+</plist>

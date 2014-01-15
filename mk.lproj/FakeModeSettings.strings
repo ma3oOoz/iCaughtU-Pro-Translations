@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ALL SIM CARDS</key>
+	<string>Сите SIM картички</string>
+	<key>ALLOWED ATTEMPTS</key>
+	<string>Дозволени Обиди</string>
+	<key>ALLOWED SIM CARDS</key>
+	<string>Дозволени SIM Картички</string>
+	<key>ENABLE</key>
+	<string>Овозможи</string>
+	<key>FAKE BATTERY</key>
+	<string>Лажна Батерија</string>
+	<key>FAKEMODE</key>
+	<string>Лажен режим</string>
+	<key>FAKEMODE ALLOWS ACCESS TO YOUR DEVICE  WHEN PASSWORD IS ENTERED WRONG ONLY TO THE APPS YOU CHOOSE.</key>
+	<string>Кога ќе се внесе погрешна лозинката Лажниот Режим овозможува пристап до вашиот уред само на апликации кои ке ги одберете.</string>
+	<key>HIDE CHARGING</key>
+	<string>Сокриј Полнење</string>
+	<key>LOCK CYDIA APPS</key>
+	<string>Заклучи ги Апликациите од Cydia</string>
+	<key>LOCK SYSTEM APPS</key>
+	<string>Заклучи ги Системските Апликации</string>
+	<key>LOCKED APPLICATIONS</key>
+	<string>Заклучени Апликации</string>
+	<key>LOCKED APPS</key>
+	<string>Заклучени Апликации</string>
+	<key>LOCKED APPS WILL BE ACTIVATOR, CYDIA, ICAUGHTU PRO, IFILE, IFINDER, MOBILETERMINAL, MYFILE, PKGBACKUP, POWER CENTER AND SBSETTINGS</key>
+	<string>Заклучени Апликации ќе бидат Activator, Cydia, iCaughtU Pro, iFile, iFinder, MobileTerminal, MyFile, PKGBackup, Power Center и SBSettings</string>
+	<key>ONLY SELECTED</key>
+	<string>Само Избраните</string>
+	<key>PREFERENCES</key>
+	<string>Прилагодувања</string>
+	<key>SIM CARDS PREFERENCES</key>
+	<string>Прилагодување на SIM Картичката</string>
+	<key>SIM LIST</key>
+	<string>Листа на SIM Картички</string>
+</dict>
+</plist>

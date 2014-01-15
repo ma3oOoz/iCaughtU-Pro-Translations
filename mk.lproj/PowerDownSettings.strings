@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ALERT TEXT</key>
+	<string>Текст за Предупредување</string>
+	<key>DISABLE</key>
+	<string>Оневозможи</string>
+	<key>POWER DOWN SETTINGS</key>
+	<string>Прилагодувања за Исклучување</string>
+	<key>POWER DOWN WHEN LOCKED</key>
+	<string>Исклучи Кога е Заклучен</string>
+	<key>SEND LOCATION</key>
+	<string>Испрати Локација</string>
+	<key>SEND MAIL</key>
+	<string>Испрати Е-Пошта</string>
+	<key>SEND PICTURE</key>
+	<string>Испрати Фотографија</string>
+	<key>SEND SMS</key>
+	<string>Испрати SMS</string>
+	<key>SHOW ALERT</key>
+	<string>Прикажи Предупредување</string>
+</dict>
+</plist>

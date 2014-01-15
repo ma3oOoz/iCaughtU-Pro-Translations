@@ -1,0 +1,9 @@
+"POWER DOWN WHEN LOCKED" = "암호가 있을 때 전원 종료";
+"DISABLE" = "전원 종료 비활성화";
+"SEND SMS" = "SMS 전송";
+"SEND MAIL" = "Mail 전송";
+"SEND PICTURE" = "사진 전송";
+"SEND LOCATION" = "위치 전송";
+"SHOW ALERT" = "메시지 표시";
+"ALERT TEXT" = "메시지 내용";
+"POWER DOWN SETTINGS" = "전원 종료 설정";

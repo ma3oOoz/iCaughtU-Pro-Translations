@@ -1,0 +1,17 @@
+"FAKEMODE" = "FakeMode";
+"PREFERENCES" = "Préférences";
+"FAKEMODE ALLOWS ACCESS TO YOUR DEVICE  WHEN PASSWORD IS ENTERED WRONG ONLY TO THE APPS YOU CHOOSE." = "FakeMode permet d'accéder à votre appareil lorsque le mot de passe est entré mal seulement pour les applications que vous choisissez.";
+"ENABLE" = "Activer";
+"SIM CARDS PREFERENCES" = "Préférences de la carte SIM";
+"ALLOWED SIM CARDS" = "SIM Autorisées";
+"ALL SIM CARDS" = "Toutes les cartes SIM";
+"ONLY SELECTED" = "Seulement celles sélectionées";
+"SIM LIST" = "Liste SIM";
+"LOCKED APPS" = "Applications Vérouillées ";
+"LOCKED APPS WILL BE ACTIVATOR, CYDIA, ICAUGHTU PRO, IFILE, IFINDER, MOBILETERMINAL, MYFILE, PKGBACKUP, POWER CENTER AND SBSETTINGS" = "Les apllications vérouillées vont être Activator, Cydia, iCaughtU Pro, iFile, iFinder, MobileTerminal, MyFile, PKGBackup, Power Center and SBSettings";
+"LOCKED APPLICATIONS" = "Applications Vérrouillées";
+"LOCK SYSTEM APPS" = "Paramétres de vérouillage de l'apps";
+"LOCK CYDIA APPS" = "Vérouillées les apps Cydia";
+"ALLOWED ATTEMPTS" = "Tentatives Autorisées";
+"FAKE BATTERY" = "Batterie Faux";
+"HIDE CHARGING" = "Masquer Charge";

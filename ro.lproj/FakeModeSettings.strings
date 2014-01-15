@@ -1,0 +1,17 @@
+"FAKEMODE" = "FakeMode";
+"PREFERENCES" = "Setări";
+"FAKEMODE ALLOWS ACCESS TO YOUR DEVICE  WHEN PASSWORD IS ENTERED WRONG ONLY TO THE APPS YOU CHOOSE." = "FakeMode îți permite să accesezi device-ul cand greșești parola.";
+"ENABLE" = "Activează";
+"SIM CARDS PREFERENCES" = "Setări pentru SIM-uri";
+"ALLOWED SIM CARDS" = "SIM-uri permise";
+"ALL SIM CARDS" = "Toate SIM-urile";
+"ONLY SELECTED" = "Doar cele selectate";
+"SIM LIST" = "Lista cu SIM-uri";
+"LOCKED APPS" = "Aplicații blocate";
+"LOCKED APPS WILL BE ACTIVATOR, CYDIA, ICAUGHTU PRO, IFILE, IFINDER, MOBILETERMINAL, MYFILE, PKGBACKUP, POWER CENTER AND SBSETTINGS" = "Aplicațiile blocate vor fi Activator, Cydia, iCaughtU Pro, iFile, iFinder, MobileTerminal, MyFile, PKGBackup, Power Center și SBSettings";
+"LOCKED APPLICATIONS" = "Aplicații blocate";
+"LOCK SYSTEM APPS" = "Blochează aplicațiile de sistem";
+"LOCK CYDIA APPS" = "Blochează aplicațiile din Cydia";
+"ALLOWED ATTEMPTS" = "Încercări permise";
+"FAKE BATTERY" = "Fake Battery";
+"HIDE CHARGING" = "Ascunde încarcarea";

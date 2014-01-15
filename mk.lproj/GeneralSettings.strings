@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AUTO TURN ON 3G</key>
+	<string>Авто. Вклучи 3G</string>
+	<key>AUTO TURN ON DATA</key>
+	<string>Авто. Вклучи Data</string>
+	<key>AUTO TURN ON WIFI</key>
+	<string>Авто. Вклучи WiFi</string>
+	<key>GENERAL PREFERENCES</key>
+	<string>Општи Параметри</string>
+	<key>GENERAL SETTINGS</key>
+	<string>Општи Подесувања</string>
+	<key>HIDE ICON</key>
+	<string>Сокриј Икона</string>
+	<key>SAVE TO LIBRARY</key>
+	<string>Зачувај Во Библиотека</string>
+	<key>TURN ON 3G WHEN NO INTERNET ACCESS AVAILABLE</key>
+	<string>Вклучете 3G кога нема интернет пристап на располагање</string>
+</dict>
+</plist>

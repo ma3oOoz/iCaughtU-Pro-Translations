@@ -1,0 +1,16 @@
+"FAKEMODE" = "מצב מזויף";
+"PREFERENCES" = "הגדרות";
+"FAKEMODE ALLOWS ACCESS TO YOUR DEVICE  WHEN PASSWORD IS ENTERED WRONG ONLY TO THE APPS YOU CHOOSE." = "מצב מזויף מאפשר לך גישה למכשיר כשהסיסמה אינה נכונה, אך רק לאפליקציות אשר יבחרו";
+"ENABLE" = "הפעלה";
+"SIM CARDS PREFERENCES" = "הגדרות כרטיס סים";
+"ALLOWED SIM CARDS" = "כרטיסי סים מאופשרים";
+"ALL SIM CARDS" = "כל כרטיסי הסים";
+"ONLY SELECTED" = "רק אלו שנבחרו";
+"SIM LIST" = "רשימת סים";
+"LOCKED APPS" = "אפליקציות נעולות";
+"LOCKED APPS WILL BE ACTIVATOR, CYDIA, ICAUGHTU PRO, IFILE, IFINDER, MOBILETERMINAL, MYFILE, PKGBACKUP, POWER CENTER AND SBSETTINGS" = "האפליקציות הנעולות יהיו Activator, Cydia, iCaughtU Pro, iFile, iFinder, MobileTerminal, MyFile, PKGBackup, Power Center ו-SBSettings";
+"LOCK SYSTEM APPS" = "נעילת אפליקציות מערכת";
+"LOCK CYDIA APPS" = "נעילת אפליקציות סידיה";
+"ALLOWED ATTEMPTS" = "מספר הניסיונות";
+"FAKE BATTERY" = "סוללת שווא";
+"HIDE CHARGING" = "סתר טעינה";

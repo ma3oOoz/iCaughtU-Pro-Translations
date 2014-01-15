@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AUTO TURN ON 3G</key>
+	<string>تشغيل 3G تلقائياً</string>
+	<key>AUTO TURN ON WIFI</key>
+	<string>تشغيل ال لاسلكي تلقائيّاً</string>
+	<key>GENERAL PREFERENCES</key>
+	<string>الإعدادات العامّة</string>
+	<key>GENERAL SETTINGS</key>
+	<string>الاعدادات العامّة</string>
+	<key>HIDE ICON</key>
+	<string>إخفاء الأيقونة</string>
+	<key>SAVE TO LIBRARY</key>
+	<string>اضافة الى المجموعة</string>
+	<key>TURN ON 3G WHEN NO INTERNET ACCESS AVAILABLE</key>
+	<string>تشغيل 3G عند عدم توفر اتّصال بالشبكة</string>
+</dict>
+</plist>

@@ -1,0 +1,5 @@
+"EMAIL" = "E-Mail";
+"IN ORDER TO USE CUSTOM EMAIL SETTINGS YOU NEED A SMTP MAIL PROVIDER LIKE GMAIL" = "Để có thể cài đặt cho hộp thư tùy biến bạn cần phải có Nhà cung cấp Hộp thư SMTP giống như GMail";
+"USE CUSTOM MAIL SERVICE" = "Sử dụng Dịch vụ Hộp thư Tùy biến";
+"MAIL DETAILS" = "Chi tiết hộp thư";
+"EMAIL SETTINGS" = "Cài đặt E-Mail";

@@ -1,0 +1,5 @@
+"EMAIL" = "E-Mail";
+"IN ORDER TO USE CUSTOM EMAIL SETTINGS YOU NEED A SMTP MAIL PROVIDER LIKE GMAIL" = "Per usare le impostazioni email ti serve un provider SMTP come Gmail";
+"USE CUSTOM MAIL SERVICE" = "Usa un servizio mail customizzato";
+"MAIL DETAILS" = "Dettagli mail";
+"EMAIL SETTINGS" = "Impostazioni E-mail";

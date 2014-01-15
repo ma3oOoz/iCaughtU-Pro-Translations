@@ -1,0 +1,5 @@
+"EMAIL" = "E-Mail Einstellungen";
+"EMAIL SETTINGS" = "E-Mail";
+"IN ORDER TO USE CUSTOM EMAIL SETTINGS YOU NEED A SMTP MAIL PROVIDER LIKE GMAIL" = "Um eine benutzerdefinierte Absender-Mailadresse nutzen zu können, wird ein SMTP-Mailanbieter wie z.B. GMail benötigt!";
+"MAIL DETAILS" = "Server Einstellungen";
+"USE CUSTOM MAIL SERVICE" = "Benutzerdef. Absender";

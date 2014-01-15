@@ -1,0 +1,17 @@
+"ALL SIM CARDS" = "Minden SIM-kártya";
+"ALLOWED SIM CARDS" = "Engedélyezett SIM-kártyák";
+"ENABLE" = "Engedélyezés";
+"FAKEMODE" = "FakeMode";
+"FAKEMODE ALLOWS ACCESS TO YOUR DEVICE  WHEN PASSWORD IS ENTERED WRONG ONLY TO THE APPS YOU CHOOSE." = "A FakeMode használatával helytelen jelszó beütése esetén csak az általad kiválasztott alkalmazásokhoz lehet hozzáférni.";
+"LOCK CYDIA APPS" = "Cydiás alkalmazások letiltása";
+"LOCK SYSTEM APPS" = "Rendszeralkalmazások letiltása";
+"LOCKED APPLICATIONS" = "Letiltott alkalmazások";
+"LOCKED APPS" = "Letiltott alkalmazások";
+"LOCKED APPS WILL BE ACTIVATOR, CYDIA, ICAUGHTU PRO, IFILE, IFINDER, MOBILETERMINAL, MYFILE, PKGBACKUP, POWER CENTER AND SBSETTINGS" = "Az Activator, Cydia, iCaughtU Pro, iFile, iFinder, MobileTerminal, MyFile, PKGBackup, Power Center és az SBSettings alkalmazások lesznek letiltva.";
+"ONLY SELECTED" = "Csak a megadottak";
+"PREFERENCES" = "Beállítások";
+"SIM CARDS PREFERENCES" = "SIM-kártya beállításai";
+"SIM LIST" = "SIM-kártyák listája";
+"ALLOWED ATTEMPTS" = "Próbálkozások száma";
+"FAKE BATTERY" = "False Akkumulátor";
+"HIDE CHARGING" = "Elrejtése Töltése";

@@ -1,0 +1,5 @@
+"EMAIL" = "E-Mail";
+"IN ORDER TO USE CUSTOM EMAIL SETTINGS YOU NEED A SMTP MAIL PROVIDER LIKE GMAIL" = "Pentru a seta un email diferit, ai nevoie de setări SMTP, precum gmail";
+"USE CUSTOM MAIL SERVICE" = "Folosește un email diferit";
+"MAIL DETAILS" = "Detaliile mail-ului";
+"EMAIL SETTINGS" = "Setarile e-mail-ului";

@@ -1,0 +1,17 @@
+﻿"FAKEMODE" = "FakeMode";
+"PREFERENCES" = "Nastavenia";
+"FAKEMODE ALLOWS ACCESS TO YOUR DEVICE  WHEN PASSWORD IS ENTERED WRONG ONLY TO THE APPS YOU CHOOSE." = "FakeMode umožní spustenie vybraných aplikácii, aj v prípade, že zadané heslo bolo nesprávne.";
+"ENABLE" = "Povoliť";
+"SIM CARDS PREFERENCES" = "Nastavenia pre SIM karty";
+"ALLOWED SIM CARDS" = "Povolené SIM karty";
+"ALL SIM CARDS" = "Všetky SIM karty";
+"ONLY SELECTED" = "Iba vybrané";
+"SIM LIST" = "Zoznam SIM";
+"LOCKED APPS" = "Uzamknutie aplikácí";
+"LOCKED APPS WILL BE ACTIVATOR, CYDIA, ICAUGHTU PRO, IFILE, IFINDER, MOBILETERMINAL, MYFILE, PKGBACKUP, POWER CENTER AND SBSETTINGS" = "Prednastavené uzamknutie Cydia aplikácíí: Activator, Cydia, iCaughtU Pro, iFile, iFinder, MobileTerminal, MyFile, PKGBackup, Power Center a SBSettings";
+"LOCKED APPLICATIONS" = "Uzamknuté aplikácie";
+"LOCK SYSTEM APPS" = "Systémové aplikácie";
+"LOCK CYDIA APPS" = "Cydia aplikácie";
+"ALLOWED ATTEMPTS" = "Počet pokusov";
+"FAKE BATTERY" = "Falošné % batérie";
+"HIDE CHARGING" = "Skryť stav nabíjania";

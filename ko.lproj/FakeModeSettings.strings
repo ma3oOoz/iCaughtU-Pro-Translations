@@ -1,0 +1,17 @@
+"FAKEMODE" = "가짜 모드";
+"PREFERENCES" = "설정";
+"FAKEMODE ALLOWS ACCESS TO YOUR DEVICE  WHEN PASSWORD IS ENTERED WRONG ONLY TO THE APPS YOU CHOOSE." = "가짜 모드는 암호를 잘못 입력하여도 사전 설정된 어플리케이션들만 실행이 가능하도록 하는 상태입니다.";
+"ENABLE" = "활성화";
+"SIM CARDS PREFERENCES" = "SIM 카드 설정";
+"ALLOWED SIM CARDS" = "허용된 SIM 카드";
+"ALL SIM CARDS" = "모든 SIM 카드";
+"ONLY SELECTED" = "선택됨";
+"SIM LIST" = "SIM 목록";
+"LOCKED APPS" = "어플리케이션 선택";
+"LOCKED APPS WILL BE ACTIVATOR, CYDIA, ICAUGHTU PRO, IFILE, IFINDER, MOBILETERMINAL, MYFILE, PKGBACKUP, POWER CENTER AND SBSETTINGS" = "Activator, Cydia, iCaughtU Pro, iFile, iFinder, MobileTerminal, MyFile, PKGBackup, Power Center, SBSettings는 잠길 것 입니다.";
+"LOCKED APPLICATIONS" = "어플리케이션 잠그기";
+"LOCK SYSTEM APPS" = "시스템 어플리케이션 잠그기";
+"LOCK CYDIA APPS" = "Cydia 어플리케이션 잠그기";
+"ALLOWED ATTEMPTS" = "시도 횟수";
+"FAKE BATTERY" = "거짓 배터리";
+"HIDE CHARGING" = "충전 숨기기";

@@ -1,0 +1,14 @@
+"FAKEMODE" = "FakeMode";
+"PREFERENCES" = "Tercihler";
+"FAKEMODE ALLOWS ACCESS TO YOUR DEVICE  WHEN PASSWORD IS ENTERED WRONG ONLY TO THE APPS YOU CHOOSE." = "FakeMode da yanlış pass şifre verilirse yalnızca seçtiğiniz app‘lere giriş sağlanıyor.";
+"ENABLE" = "Etkinleştir";
+"SIM CARDS PREFERENCES" = "SIM Kart Tercihleri";
+"ALLOWED SIM CARDS" = "İzinli SIM Kartlar";
+"ALL SIM CARDS" = "Tüm SIM Kartlar";
+"ONLY SELECTED" = "Tek Seçilmiş";
+"SIM LIST" = "SIM Listesi";
+"LOCKED APPS" = "Kilitli App‘ler";
+"LOCKED APPS WILL BE ACTIVATOR, CYDIA, ICAUGHTU PRO, IFILE, IFINDER, MOBILETERMINAL, MYFILE, PKGBACKUP, POWER CENTER AND SBSETTINGS" = "Kilitli App‘ler Activator, Cydia, iCaughtU Pro, iFile, iFinder, MobileTerminal, MyFile, PKGBackup, Power Center ve SBSettings dir";
+"LOCKED APPLICATIONS" = "Kilitli  App‘ler";
+"LOCK SYSTEM APPS" = "System App‘leri kilitle";
+"LOCK CYDIA APPS" = "Cydia App‘leri kilitle";

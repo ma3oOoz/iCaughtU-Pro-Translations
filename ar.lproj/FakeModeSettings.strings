@@ -1,0 +1,16 @@
+"ALL SIM CARDS" = "جميع بطاقات الشريحة";
+"ALLOWED SIM CARDS" = "بطاقات الشريحة المقبولة";
+"ENABLE" = "تفعيل";
+"FAKEMODE" = "الوضع المزوّر";
+"FAKEMODE ALLOWS ACCESS TO YOUR DEVICE  WHEN PASSWORD IS ENTERED WRONG ONLY TO THE APPS YOU CHOOSE." = "الوضع المزوّر يمكّنك من استخدام الجهاز في حالة ادخال الرمز السري الخاطئ.";
+"LOCK CYDIA APPS" = "إقفال برامج Cydia";
+"LOCK SYSTEM APPS" = "إقفال برامج النظام";
+"LOCKED APPLICATIONS" = "البرامج المقفلة";
+"LOCKED APPS" = "البرامج المقفلة";
+"LOCKED APPS WILL BE ACTIVATOR, CYDIA, ICAUGHTU PRO, IFILE, IFINDER, MOBILETERMINAL, MYFILE, PKGBACKUP, POWER CENTER AND SBSETTINGS" = "البرامج المقفلة سوف تكون Activator, Cydia, iCaughtU Pro, iFile, iFinder, MobileTerminal, MyFile, PKGBackup, Power Center وَ SBSettings";
+"ONLY SELECTED" = "فقط المحدّد";
+"PREFERENCES" = "الإعدادات";
+"SIM CARDS PREFERENCES" = "إعدادات الشريحة" = "SIM LIST" = "لائحة الشريحة";"
+"ALLOWED ATTEMPTS" = "المحاولات المسموحة";
+"FAKE BATTERY" = "البطارية وهمية";
+"HIDE CHARGING" = "إخفاء شحن";

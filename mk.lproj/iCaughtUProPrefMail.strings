@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CUSTOM MAIL</key>
+	<string>Прилагодена Е-Пошта</string>
+	<key>EMAIL</key>
+	<string>Е-Пошта</string>
+	<key>HOST</key>
+	<string>Host</string>
+	<key>MAIL INFO</key>
+	<string>Инфо за Е-Поштата</string>
+	<key>PASSWORD</key>
+	<string>Лозинка</string>
+	<key>SEND TEST EMAIL</key>
+	<string>Прати Тест Е-Пошта</string>
+	<key>USE SECURE CONNECTION</key>
+	<string>Користи Безбедна Врска</string>
+	<key>USERNAME</key>
+	<string>Корисничко Име</string>
+</dict>
+</plist>
